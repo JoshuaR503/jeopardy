@@ -1,2 +1,0 @@
-# jeopardy
-Created with CodeSandbox
